@@ -7,8 +7,8 @@ This Studio make introductory book.
  
  
 
-### Kata Serise 
-##### 炎の型(FireFireStyle)
+## Kata Serise 
+#### 炎の型(FireFireStyle)
 Scratchで学ぶゲームプログラム入門
 
 This is a introductory book for Game Programming With Scratch;
@@ -19,20 +19,20 @@ This is a introductory book for Game Programming With Scratch;
  
   
 
-##### 火の型(FireStyle) now creating
+#### 火の型(FireStyle) now creating
 ..
 ..
 
-### Nazenai Serise
+## Nazenai Serise
 実際にライブラリを作り。作った瞬間のリビドーが爆発した瞬間にアレコレ書く。
 
-#### なぜなにTorrent (Nazenani Torrent)
+This book's writer must to make librarys or prototype, then explain about a concept and technical information with high  passionately state. 
+
+#### なぜなにTorrent (Nazenani Torrent - P2P Programming for begginer )
 [GitBook Link](https://www.gitbook.com/book/kyorohiro/doc_hetimatorrent/details)
  
-  
-  
 
-#### なぜなにSTUN (Nazenani STUN)
+#### なぜなにSTUN (Nazenani STUN - P2P Programming for begginer)
 [GitBook Link](https://www.gitbook.com/book/kyorohiro/doc_stun/details)
 
   
