@@ -1,4 +1,4 @@
-# About FireFireStyle Studio
+# 炎の型 工房について (About FireFireStyle Studio)
 
 炎の型工房では、プログラムの入門書を作っています
 
