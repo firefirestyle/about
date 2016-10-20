@@ -5,7 +5,6 @@
 This Studio make introductory book.
 
  
- 
 
 ## Kata Serise 
 #### 炎の型(FireFireStyle)
